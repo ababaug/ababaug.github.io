@@ -4,7 +4,7 @@
 
 > The project is to create the mobile version of my Portfolio.
 
-![Screenshot](./images/shot.png)
+![Screenshot](./images/site-deployment-shot.png)
 
 
 ## Built With
