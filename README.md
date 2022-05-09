@@ -2,7 +2,7 @@
 
 # I designed the desktop version of the milestone portfolio project.
 
-> The project is to create the mobile version of my Portfolio.
+> The project is to deploy the milestone portofolio project online.
 
 ![Screenshot](./images/site-deployment-shot.png)
 
@@ -15,6 +15,7 @@
 
 **This is an example of how you may give instructions on setting up your project locally.**
 **I wrote the code on HTML and CSS then added linter configuration files **
+**Deployed it online using github page**
 
 
 ## Author
