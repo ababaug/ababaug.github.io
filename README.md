@@ -1,20 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# I designed the milestone portfolio project.
+# I designed the desktop version of the milestone portfolio project.
 
-> The project is to create the mobile version and desktop version of my Portfolio.
+> The project is to create the mobile version of my Portfolio.
 
 ![Screenshot](./images/shot.png)
-
 
 
 ## Built With
 
 - HTML and CSS
-
-## Live Demo
-
-Portfolio-Online version: [Portfolio Link](https://ababaug.github.io/)
 
 ## Getting Started
 
@@ -29,7 +24,6 @@ Portfolio-Online version: [Portfolio Link](https://ababaug.github.io/)
 - GitHub: [@githubhandle](https://github.com/ababaug)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/augustine-abah-862202161)
-- Portfolio-Online version: [Portfolio Link](https://ababaug.github.io/)
 
 ## 🤝 Contributing
 
@@ -42,3 +36,9 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
+
+
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
