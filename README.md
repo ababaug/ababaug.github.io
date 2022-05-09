@@ -1,5 +1,4 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-[Portfolio Link](https://https://ababaug.github.io/)
 
 # I designed the milestone portfolio project.
 
@@ -26,6 +25,7 @@
 - GitHub: [@githubhandle](https://github.com/ababaug)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/augustine-abah-862202161)
+- Portfolio-Online version: [Portfolio Link](https://ababaug.github.io/)
 
 ## 🤝 Contributing
 
